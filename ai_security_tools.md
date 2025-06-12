@@ -20,6 +20,7 @@ This is a work in progress, curated list of AI Security tools:
 - [PlexyGlass](https://github.com/safellama/plexiglass)
 -  [PurpleLlama](https://github.com/facebookresearch/PurpleLlama)
 -  [jailbreak-evaluation](https://github.com/controllability/jailbreak-evaluation)
+- [Deepteam](https://github.com/confident-ai/deepteam)
 
 ## Prompt Firewall and Redaction
 
