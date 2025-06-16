@@ -50,3 +50,20 @@ _Products that intercept prompts and responses and apply security or privacy rul
 ## AI Red Teaming Datasets
 - [AttaQ Dataset](https://huggingface.co/datasets/ibm/AttaQ) - a red teaming dataset consisting of 1402 carefully crafted adversarial questions
 - [HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal](https://arxiv.org/pdf/2402.04249)
+
+
+## LLM Observability Platforms/Tools
+
+_Open‑source & self‑hostable tools that capture LLM requests and generations, surface traces, and provide dashboards for cost, latency, and other metrics. All offer a free hosted tier (with usage limits)._
+
+- [**PostHog**](https://github.com/PostHog/posthog) – All‑in‑one product & LLM observability platform that unifies tracing, analytics, session replay, feature flags, and A/B testing. **MIT · ≈25.6 k★**
+
+- [**Langfuse**](https://github.com/langfuse/langfuse) – Full‑stack LLM engineering suite with call tracing, prompt management, evaluation pipelines, datasets, and OpenTelemetry‑compatible metrics. **MIT · ≈10.2 k★**
+
+- [**Opik**](https://github.com/comet-ml/opik) – Tracing, annotation, prompt/model playground, and evaluation for LLM apps; tightly integrated with Comet’s broader model‑development workflow. **Apache 2.0 · ≈6.2 k★**
+
+- [**OpenLLMetry**](https://github.com/traceloop/openllmetry) – OpenTelemetry‑based collector/SDK for LLM requests, vector DBs, and agent frameworks; exports spans to Traceloop, Datadog, Honeycomb, and more. **Apache 2.0 · ≈5.6 k★**
+
+- [**Phoenix**](https://github.com/Arize-ai/phoenix) – AI observability platform (by Arize) providing tracing, evals, experiments, and prompt management; ships plugins & conventions complementary to OpenTelemetry. **Elastic License 2.0 · ≈5.3 k★**
+
+- [**Helicone**](https://github.com/helicone/helicone) – Monitoring, debugging, and prompt‑improvement proxy with async mode, playground, eval scoring, and feedback capture for LLM applications. **Apache 2.0 · ≈3.6 k★**
