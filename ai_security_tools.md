@@ -67,3 +67,5 @@ _Open‑source & self‑hostable tools that capture LLM requests and generations
 - [**Phoenix**](https://github.com/Arize-ai/phoenix) – AI observability platform (by Arize) providing tracing, evals, experiments, and prompt management; ships plugins & conventions complementary to OpenTelemetry. **Elastic License 2.0 · ≈5.3 k★**
 
 - [**Helicone**](https://github.com/helicone/helicone) – Monitoring, debugging, and prompt‑improvement proxy with async mode, playground, eval scoring, and feedback capture for LLM applications. **Apache 2.0 · ≈3.6 k★**
+
+- More platforms can be found [here](https://docs.litellm.ai/docs/integrations/)
