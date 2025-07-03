@@ -4,7 +4,7 @@
 > **Note:** This living list combines two complementary perspectives:
 > 1. **Securing AI (AI Security)** – protecting AI systems themselves.
 > 2. **Applying AI to Cybersecurity (AI for Security)** – using AI/LLMs to secure or attack traditional IT systems.
-> Exact duplicates have been removed; categories have been reorganized for clarity.
+
 
 ---
 
